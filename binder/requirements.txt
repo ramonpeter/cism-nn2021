@@ -1,0 +1,8 @@
+# installs into environment for mybinder
+#
+tensorflow
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
