@@ -1,8 +1,8 @@
 # installs into environment for mybinder
 #
-tensorflow==2.6.0
 matplotlib
 numpy
 pandas
 scipy
 scikit-learn
+tensorflow
