@@ -1,6 +1,6 @@
 # installs into environment for mybinder
 #
-tensorflow
+tensorflow==2.6.0
 matplotlib
 numpy
 pandas
