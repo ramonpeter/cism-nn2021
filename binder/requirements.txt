@@ -1,5 +1,6 @@
 # installs into environment for mybinder
 #
+Python>=3.8
 tensorflow
 matplotlib
 numpy
