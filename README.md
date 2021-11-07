@@ -1,3 +1,5 @@
+# An Introduction to Neural Networks
+
 This repository contains the notebooks for the
 [2021 CISM/CÉCI training](https://indico.cism.ucl.ac.be/category/6/) session
 ["An Introduction to Neural Networks"](https://indico.cism.ucl.ac.be/event/106/).
